@@ -150,7 +150,7 @@ in the Streamlit sidebar.
 
 ## 🎥 Demo
 
-
+https://gen-ai---chat-with-mysql-db-puknbsew2ngyv9wpxqwsqj.streamlit.app/
 
 ---
 
