@@ -135,16 +135,16 @@ in the Streamlit sidebar.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### SQLite Demo
 
-![SQLite Demo](screenshots/sqlite-demo.png)
+![SQLite Demo](Screenshots/sqlite-demo.png)
 
 
 ### MySQL Demo
 
-![MySQL Demo](screenshots/mysql-demo.png)
+![MySQL Demo](Screenshots/mysql-demo.png)
 
 ---
 
